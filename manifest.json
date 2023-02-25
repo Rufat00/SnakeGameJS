@@ -1,0 +1,17 @@
+{
+    "name": "Snake Game | Rufat",
+    "short_name": "Snake Game",
+    "theme_color": "#212837",
+    "background_color": "#e3f2fd",
+    "display": "standalone",
+    "start_url": ".",
+    "scope": "/",
+    "description": "Snake Game by Rufat",
+    "orientation": "landscape",
+    "icons": [
+        {
+            "src": "./icon.png",
+            "sizes": "1024x1024"
+        }
+    ]
+}
